@@ -33,7 +33,9 @@ group :production do
   gem 'twitter'
   gem 'hipchat'
   gem 'json'
+  gem 'builder', '~> 3.0.0'
 end
+
 
 gem 'rspec'
 gem 'fuubar'
